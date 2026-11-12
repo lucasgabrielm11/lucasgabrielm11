@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Cursando **Engenharia da Computação** na Anhanguera Ipatinga (2026–2030)
+- 🎓 Cursando **Engenharia da Computação** (2026–2030)
 - 🤖 Estou construindo uma base em **IA generativa**: LLMs, RAG e agentes
 - 🔐 Tenho formação em **cibersegurança** (Google Cybersecurity Certificate), com prática em análise de logs e SIEM
 - 🌱 Aprendendo em público: meus projetos e estudos ficam aqui no GitHub
