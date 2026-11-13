@@ -63,7 +63,7 @@
 
 - [x] Git e GitHub
 - [x] Python para APIs e automação
-- [ ] Projeto de RAG com avaliação
+- [x] Projeto de RAG com avaliação
 - [ ] Agentes com tool calling
 
 ---
