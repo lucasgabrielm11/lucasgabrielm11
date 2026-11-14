@@ -45,9 +45,9 @@
 
 | Projeto | Descrição | Status |
 |---|---|---|
-| 🤖 [LLM: Primeiros Passos](https://github.com/lucasgabrielm11/llm-primeiros-passos) | Fundamentos de LLMs com Python: tokens, temperatura, prompt de sistema e JSON | ✅ Concluído |
-| 📚 [Assistente RAG](https://github.com/lucasgabrielm11/rag-assistente) | Responde perguntas sobre documentos, citando as fontes | ✅ Concluído |
 | 🛡️ [Agente de triagem de logs](https://github.com/lucasgabrielm11/agente-triagem-logs) | Agente de IA que analisa logs e gera relatório com severidade | ✅ Concluído |
+| 📚 [Assistente RAG](https://github.com/lucasgabrielm11/rag-assistente) | Responde perguntas sobre documentos, citando as fontes | ✅ Concluído |
+| 🤖 [LLM: Primeiros Passos](https://github.com/lucasgabrielm11/llm-primeiros-passos) | Fundamentos de LLMs com Python: tokens, temperatura, prompt de sistema e JSON | ✅ Concluído |
 
 ---
 
@@ -66,5 +66,6 @@
 - [x] Python para APIs e automação
 - [x] Projeto de RAG com avaliação
 - [x] Agentes com tool calling
+- [ ] FastAPI
 
 ---
