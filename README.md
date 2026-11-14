@@ -45,7 +45,7 @@
 
 | Projeto | Descrição | Status |
 |---|---|---|
-| 🛡️ [Agente de triagem de logs](https://github.com/lucasgabrielm11/agente-triagem-logs) | Agente de IA que analisa logs e gera relatório com severidade | ✅ Concluído |
+| 🛡️ [Agente de Triagem de Logs](https://github.com/lucasgabrielm11/agente-triagem-logs) | Agente de IA que analisa logs e gera relatório com severidade | ✅ Concluído |
 | 📚 [Assistente RAG](https://github.com/lucasgabrielm11/rag-assistente) | Responde perguntas sobre documentos, citando as fontes | ✅ Concluído |
 | 🤖 [LLM: Primeiros Passos](https://github.com/lucasgabrielm11/llm-primeiros-passos) | Fundamentos de LLMs com Python: tokens, temperatura, prompt de sistema e JSON | ✅ Concluído |
 
