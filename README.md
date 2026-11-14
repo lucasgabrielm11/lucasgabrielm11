@@ -31,12 +31,13 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
 
 **Estudando agora**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
 ![Agentes](https://img.shields.io/badge/Agentes_de_IA-1F6FEB?style=for-the-badge)
 
 ---
@@ -45,8 +46,9 @@
 
 | Projeto | Descrição | Status |
 |---|---|---|
-| 📚 [Assistente RAG](https://github.com/lucasgabrielm11/rag-assistente) | Responde perguntas sobre documentos, citando as fontes | 🔨 Em construção |
-| 🛡️ [Agente de triagem de logs](--) | Agente de IA que analisa logs e gera relatório com severidade | 🔨 Em construção |
+| 🤖 [LLM: Primeiros Passos](https://github.com/lucasgabrielm11/llm-primeiros-passos) | Fundamentos de LLMs com Python: tokens, temperatura, prompt de sistema e JSON | ✅ Concluído |
+| 📚 [Assistente RAG](https://github.com/lucasgabrielm11/rag-assistente) | Responde perguntas sobre documentos, citando as fontes | ✅ Concluído |
+| 🛡️ Agente de triagem de logs | Agente de IA que analisa logs e gera relatório com severidade | 🔨 Em construção |
 
 ---
 
